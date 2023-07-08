@@ -90,6 +90,10 @@ p {
   p {
     text-align: center;
   }
+
+  .app-title {
+    text-align: center;
+  }
   .project-link {
     display: block;
     text-align: center;
